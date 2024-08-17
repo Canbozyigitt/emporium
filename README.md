@@ -23,3 +23,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # emporium
+<img width="1470" alt="proje1" src="file:///Users/canbozyigit/Desktop/Ekran%20Resmi%202024-08-17%2013.28.23.png">
