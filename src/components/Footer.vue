@@ -4,7 +4,7 @@
     <!-- v-card: Footer içinde düz (flat) ve döşeme (tile) tarzında kart oluşturur, arka planı siyah ve metin rengi beyazdır. -->
     <v-card flat tile class="black white--text py-12 px-5" width="100%">
       <v-row>
-        <!-- v-col: Kolon yapısı, her bir footer bölümü için yer ayırır. -->
+        <!-- v-col: Kolon yapısı, her bir footer bölümü için yer ayırır -->
         <v-col cols="12" xs="12" sm="6" md="4" class="pa-16">
           <!-- v-toolbar: Üst kısımda logo ve başlığı içeren bir araç çubuğu oluşturur. -->
           <v-toolbar color="transparent" flat>
