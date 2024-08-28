@@ -1,5 +1,5 @@
 <template>
-  <!-- v-item-group: Bir grup öğeyi barındırır, mandatory olduğu için en az bir öğe seçilmelidir. -->
+  <!-- v-item-group: Bir grup öğeyi barındırır, mandatory olduğu için en az bir öğe seçilmelidir -->
   <v-item-group mandatory class="mt-n1">
     <!-- v-container: İçerikleri düzgün bir şekilde hizalamak için kullanılır -->
     <v-container>
