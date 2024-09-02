@@ -10,7 +10,7 @@
       
       v-for="(client, i) in clients"
       :key="i" 
-    > <!-- clients dizisindeki her bir öğe için bir kolon oluşturur. -->
+    > <!-- clients dizisindeki her bir öğe için bir kolon oluşturur.-->
       <!-- v-card: Her bir client için kart yapısı oluşturur. -->
       <v-card class="elevation-16 mx-auto" width="300"> <!-- Kartın genişliğini ve gölge seviyesini ayarlar. -->
         <!-- v-list: Kartın içeriğini düzenler, subheader ve iki satırlı metin içerir. -->
