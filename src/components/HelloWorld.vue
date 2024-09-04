@@ -17,7 +17,7 @@
       <v-col class="mb-4">
         <!-- h1: Başlık elemanı, büyük ve kalın font ile metni gösterir. -->
         <h1 class="display-2 font-weight-bold mb-3">
-          Welcome to Vuetify <!-- Ana başlık. -->
+          Welcome to Vuetify <!-- Ana başlık -->
         </h1>
 
         <!-- p: Paragraf elemanı, açıklama metnini içerir. -->
