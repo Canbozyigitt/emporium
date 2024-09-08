@@ -8,7 +8,7 @@
         <v-col cols="12" xs="12" sm="6" md="4" class="pa-16">
           <!-- v-toolbar: Üst kısımda logo ve başlığı içeren bir araç çubuğu oluşturur. -->
           <v-toolbar color="transparent" flat>
-            <!-- v-badge: Logo için noktalı rozet (badge) ekler. -->
+            <!-- v-badge: Logo için noktalı rozet (badge) ekler-->
             <v-badge color="#D5F0DB" dot>
               <!-- v-img: Logo görüntüsünü içerir. -->
               <v-img src="1.png" contain width="30"></v-img>
