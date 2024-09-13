@@ -1,7 +1,7 @@
 <template>
   <!-- v-row: Her bir satır için yer ayırır, mt-10 ve mb-5 sınıflarıyla üst ve alt boşluklar eklenir. -->
   <v-row class="mt-10 mb-5">
-    <!-- v-col: Kolon yapısı, her bir client için yer ayırır. -->
+    <!-- v-col: Kolon yapısı, her bir client için yer ayırır.-->
     <v-col
       cols="12"
       xs="12"
