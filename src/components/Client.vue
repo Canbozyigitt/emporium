@@ -15,7 +15,7 @@
       <v-card class="elevation-16 mx-auto" width="300"> <!-- Kartın genişliğini ve gölge seviyesini ayarlar. -->
         <!-- v-list: Kartın içeriğini düzenler, subheader ve iki satırlı metin içerir. -->
         <v-list subheader two-line>
-          <!-- v-list-item: Her bir list itemini düzenler. -->
+          <!-- v-list-item: Her bir list itemini düzenler.-->
           <v-list-item>
             <!-- v-list-item-avatar: Avatar alanı oluşturur, client.img'den alınan resim burada gösterilir. -->
             <v-list-item-avatar>
