@@ -40,7 +40,7 @@
             <!-- v-rating: Puanlama sistemini gösterir, rating değeri modelden alınır. -->
             <v-rating
               v-model="rating" <!-- Puan değeri dinamik olarak modele bağlanır. -->
-              color="yellow darken-3" <!-- Aktif yıldızların rengi. -->
+              color="yellow darken-3" <!-- Aktif yıldızların rengi.-->
               background-color="grey darken-1" <!-- Boş yıldızların rengi. -->
               empty-icon="$ratingFull" <!-- Boş yıldız simgesi (dolgun görünümde). -->
               half-increments <!-- Yarı puan artırımı sağlar. -->
